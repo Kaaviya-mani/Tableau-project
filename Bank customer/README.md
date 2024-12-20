@@ -114,7 +114,7 @@ Implement filters and drill-down options to allow users to explore specific regi
 # Snapshot of Bank-Customers Dashboard (Tableau Public)
 
 
-
+![Bank customer dataset](https://github.com/user-attachments/assets/2c59dc6b-dc59-41e0-8ac3-1379f65e254b)
 
 
 
